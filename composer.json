@@ -1,0 +1,20 @@
+{
+    "name": "live92/demo-sdk",
+    "description": "study composer sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Weibo\\": "Weibo/src"
+        }
+    }
+}
