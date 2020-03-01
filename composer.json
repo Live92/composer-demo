@@ -1,20 +1,13 @@
 {
-    "name": "live92/demo-sdk",
-    "description": "study composer sdk",
+    "name": "chao/composer-demo",
+    "description": "This is a demo for myself study composer",
     "license": "MIT",
     "authors": [
         {
-            "name": "John Smith",
-            "email": "john@example.com"
+            "name": "Live92",
+            "email": "916392142@qq.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.6"
-    },
-    "autoload": {
-        "psr-4": {
-            "Weibo\\": "Weibo/src"
-        }
-    }
+    "require": {}
 }
